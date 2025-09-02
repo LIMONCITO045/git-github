@@ -1,2 +1,2 @@
 print("hello kk")
-x=6
+x=0
